@@ -1,2 +1,2 @@
-# ML---Collage-Assignment
+# ML Collage Assignments
 Assignments of ML course in computer science 
